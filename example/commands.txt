@@ -1,0 +1,7 @@
+Crypto.exe -e 7 < original_text.txt > orig inal_text_encode.txt
+
+Crypto.exe -a < text_for_dictionary.txt > dictionary.txt
+
+Crypto.exe -a < original_text_encode.txt > original_text_encode_dictionary.txt
+
+Crypto.exe -r < original_text_encode_with_vector.txt > original_text_decode.txt
