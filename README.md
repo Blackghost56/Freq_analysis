@@ -1,4 +1,4 @@
-**Crypto ver.1.0**
+**Crypto**
 ---
 
 The program allows you to study the simple frequency analysis used in cryptography to crack the most simple ciphers.
@@ -24,8 +24,8 @@ Note. For more information use the key: --help
 ---
 
 Project structure:
-*Example coding and decoding text:		\example
-*Source:								\src
-*Compiled code:
-  * Window 7/8/10:  					\x86_x64
-  * Ubuntu 14/16:						\linux	
+* Example coding and decoding text:		[\example](https://github.com/Blackghost56/Freq_analysis/blob/master/example)
+* Source:								[\src](https://github.com/Blackghost56/Freq_analysis/blob/master/src)
+* Compiled code:
+  * Window 7/8/10:  					[\x86_x64](https://github.com/Blackghost56/Freq_analysis/blob/master/x86_x64)
+  * Ubuntu 14/16:						[\linux](https://github.com/Blackghost56/Freq_analysis/blob/master/linux)
